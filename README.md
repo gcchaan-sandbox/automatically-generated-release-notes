@@ -1,4 +1,4 @@
 # automatically-generated-release-notes
 
-hoge
+fuga
 
