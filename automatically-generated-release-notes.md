@@ -1,6 +1,6 @@
 # automatically-generated-release-notes
 
-このリポジトリは「auto-generated release notes」機能を試しただけのものです。  
+このリポジトリは「[auto-generated release notes](https://docs.github.com/ja/repositories/releasing-projects-on-github/automatically-generated-release-notes)」機能を試しただけのものです。  
 こんな感じ  
 https://github.com/gcchaan-sandbox/automatically-generated-release-notes/releases/tag/v0.0.2
 
